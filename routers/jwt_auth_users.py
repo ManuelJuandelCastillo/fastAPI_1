@@ -42,7 +42,7 @@ users_db = {
     "manu_dev": {
         "username": "manudev",
         "full_name": "Manuel del Castillo",
-        "email": "manuel_dc@icloud.com",
+        "email": "manuel_dc@manu.com",
         "disabled": True,
         "password": "$2y$10$jtBD94hK11CyCHnFgoHrkuKRJE44hj3our9Nvu881ql2i3qFlF9wu"
     }
